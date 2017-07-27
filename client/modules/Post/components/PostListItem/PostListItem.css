@@ -1,0 +1,133 @@
+.single-post {
+  margin-top: 40px;
+  border-radius: 2px;
+}
+
+.content-container {
+  padding-left: 20px;
+  min-height: 250px;
+}
+
+.post-title {
+  font-size: 28px;
+  margin-bottom: 16px;
+  font-weight: 400;
+  color: #616161;
+}
+
+.post-title a {
+  text-decoration: none;
+  color: #616161;
+}
+
+.post-tiny-text {
+  font-size: 16px;
+  margin-bottom: 16px;
+  color: #757575;
+}
+
+.post-desc {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 8px;
+}
+
+.post-action a {
+  color: #555;
+  text-decoration: none;
+  font-size: 14px;
+  font-style: italic;
+}
+
+.post-action a:hover {
+  color: #EF5350;
+}
+
+.divider {
+  border: 0;
+  height: 1px;
+  background: #ccc;
+  margin: 32px auto 0;
+}
+
+.post-detail .post-title {
+  font-size: 42px;
+  color: #454545;
+}
+
+.post-detail .post-desc {
+  font-size: 16px;
+  color: #555;
+}
+
+.services-list {
+  display: inline;
+}
+
+.services-item {
+  margin-left: 40px;
+}
+
+.edit-icon {
+  margin-left: 15px;
+}
+
+.rowResults {
+  width: 100%;
+  float: left;
+  margin-bottom: 0px;
+  border-bottom: 2px solid #adadaf;
+}
+
+.imagen {
+  width: 140px;
+  height: 120px;
+  float: left;
+  background: #fff;
+  margin: 20px 20px 20px 0px;
+}
+
+.info {
+}
+
+.info h4 {
+  color: #E0A809 !important;
+  margin: 20px 0px 10px 0px;
+}
+
+.linkh4 {
+  color: #E0A809 !important;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.info ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.info ul strong {
+  color: #000;
+}
+
+.info ul li {
+  color: #818284;
+  margin-bottom: 5px;
+}
+
+.info .linksbottom {
+}
+
+.info .linksbottom span a {
+  color: #818284;
+  margin-right: 30px;
+  text-transform: uppercase;
+  font-weight: 200;
+  text-decoration: none;
+}
+
+.info .linksbottom span a:hover {
+  color: #E0A809 !important;
+}

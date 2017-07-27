@@ -1,0 +1,12 @@
+import mongoose from 'mongoose';
+const Schema = mongoose.Schema;
+
+const <%= name %>Schema = new Schema({
+  // put here your own fields
+  cuid: { type: 'String', required: true },
+  created_at: { type: 'Date', default: Date.now, required: true },
+  updated_at: { type: 'Date', default: Date.now, required: true },
+  deleted_at: { type: 'Date' }
+});
+
+export default mongoose.model('<%= helpers.capitalize(name) %>', <%= name %>Schema);

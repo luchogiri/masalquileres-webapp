@@ -1,0 +1,10 @@
+import AbstractController from './abstract.controller';
+import <%= helpers.capitalize(name) %>Repository from '../repositories/<%= name %>.repository';
+
+class <%= helpers.capitalize(name) %>Controller extends AbstractController {
+
+}
+
+const controller = new <%= helpers.capitalize(name) %>Controller(<%= helpers.capitalize(name) %>Repository);
+
+export default controller;

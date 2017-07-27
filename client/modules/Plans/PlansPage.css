@@ -1,0 +1,96 @@
+.plansRow {
+  width: 100%;
+  text-align: center;
+}
+
+.plan {
+  width: 30%;
+  height: 650px;
+  text-align: center;
+  display: inline-block;
+  margin: 14px;
+  float: left;
+  background-color: rgb(255, 174, 29);
+  color: white;
+  margin-bottom: 50px;
+}
+
+.planText {
+  font-size: 13px;
+}
+
+.itemListPlan {
+  margin: 20px 0px;
+  margin-left: 15px;
+}
+
+.textContainer {
+  padding: 20px 35px;
+}
+
+.termsRow {
+  width: 100%;
+  display: block;
+  margin-top: 40px;
+  float: left;
+}
+
+.terms {
+  font-size: 13px;
+  text-align: center;
+}
+
+.bottomSection {
+  width: 100%;
+  text-align: center;
+}
+
+.formButton {
+  color: #fff;
+  background-color: rgb(36, 122, 169);
+  border: 0px;
+  border-radius: 0px;
+  padding: 16px 90px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.formButtonContainer {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.itemModal {
+  padding-bottom: 15px;
+  margin-left: 30px;
+}
+
+.img100 {
+  width: 100%
+}
+
+.modalBody {
+  padding: 30px
+}
+
+.planHeader {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  background-color: rgb(250, 181, 74);
+  height: 115px;
+  position: relative;
+}
+
+.planTitle {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  top: 30px;
+}
+
+.more {
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}

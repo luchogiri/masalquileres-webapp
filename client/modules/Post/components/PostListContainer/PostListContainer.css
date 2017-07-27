@@ -1,0 +1,24 @@
+.error-container {
+  min-height: 320px;
+}
+
+.error {
+  margin: auto;
+  color: #ff0000;
+  text-align: center;
+  line-height: 10;
+  vertical-align: middle;
+}
+
+.list-container {
+  min-height: 300px;
+}
+
+.paginator {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 40px;
+}
+
+

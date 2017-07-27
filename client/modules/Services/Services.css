@@ -1,0 +1,162 @@
+body {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.boxHeader {
+  width: 100%;
+  height: 380px;
+  float: left;
+  margin-top: -55px;
+}
+
+.boxHeader .infoHead {
+  width: 60%;
+  margin: 108px auto 0px auto;
+  text-align: center;
+}
+
+.boxHeader .infoHead h2 {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 14px;
+}
+
+.boxHeader .infoHead .borderBottomTitle {
+  height: 4px;
+  background: #f9b54a;
+  width: 60px;
+  margin: auto;
+  display: block;
+}
+
+.boxHeader .infoHead p {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 300;
+  font-size: 20px;
+  color: #fff;
+  margin-top: 38px;
+  font-size: 24px;
+}
+
+.boxServices {
+  width: 82%;
+  margin: auto;
+}
+
+.boxServices .boxService {
+  width: 32%;
+  margin: 60px 0 60px 1%;
+  float: left;
+  background: #f5f5f7;
+  text-align: center;
+}
+
+.boxServices .boxService img {
+  display: block;
+  margin: 35px auto 20px auto;
+}
+
+.boxServices .boxService h4 {
+  color: #247aa9;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.boxServices .boxService p {
+  color: #a5a5a5;
+  font-size: 12px;
+  margin: 15px 60px;
+}
+
+.boxServices .boxService p span {
+  font-size: 12px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+  font-family: 'Montserrat', sans-serif !important;
+  background: #247aa9;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 30px;
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+}
+
+.box5050 {
+  width: 80%;
+  margin: 0px auto;
+  padding: 30px 0px;
+}
+
+.box5050 .row {
+  width: 100%;
+  float: left;
+  padding: 40px 0px;
+}
+
+.box5050 .row .row50 {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+.box5050 .row .row50 .borderBottomTitle {
+  height: 4px;
+  background: #d3d3d3;
+  width: 60px;
+  margin: auto auto 25px auto;
+  display: block;
+}
+
+.box5050 .row .row50 img {
+  display: block;
+  margin: auto;
+}
+
+.box5050 .row .row50 h2 {
+  color: #f9b54a;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.box5050 .row .row50 p {
+  text-align: left;
+  color: #d3d3d3;
+  font-size: 18px;
+  line-height: 30px;
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 300;
+}
+
+.box5050 .row .row50 p.centrar {
+  text-align: center;
+}
+
+.box5050 .row .row50 p span {
+  font-size: 12px;
+  margin-top: 30px;
+  margin-bottom: 25px;
+  font-family: 'Montserrat', sans-serif !important;
+  background: #247aa9;
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  padding: 10px 30px;
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+}
+
+@media (max-width: 790px) {
+
+}
+
+@media (max-width: 1000px) {
+
+}
+
+@media (max-width: 1217px) {
+
+}

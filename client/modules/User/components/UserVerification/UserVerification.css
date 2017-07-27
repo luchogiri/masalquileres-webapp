@@ -1,0 +1,128 @@
+.error {
+  color: red;
+  float: left;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.popupwindow {
+  width: 504px;
+  min-height: 380px;
+  position: absolute;
+  top: 100px;
+  left: 32%;
+  background-color: rgb(250,181,74);
+}
+
+.boxMain {
+  width: 504px;
+  margin: auto;
+  text-align: center;
+}
+
+.formulario {
+  margin: 15px 50px 0px 50px;
+}
+
+.formulario input {
+  font-family: 'Vollkorn', serif;
+  font-size: 14px;
+  border: none;
+  padding: 15px;
+  font-style: italic;
+  color: #949597;
+  width: 100%;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.submitButton {
+  font-family: 'Montserrat', sans-serif !important;
+  background: #247aa9;
+  border: none;
+  color: #fff;
+  text-transform: uppercase;
+  outline: none !important
+}
+
+.img100 {
+  width: 100%
+}
+
+.bottomTitle {
+  background-color: rgb(245, 164, 29);
+  height: 50px;
+}
+
+.modificarDatos {
+  padding-top: 14px;
+  display: inline-block;
+}
+
+.txt {
+  font-style: italic;
+  margin-bottom: 20px;
+  font-size: 12px;
+  font-family: 'Vollkorn', serif;
+  text-align: center;
+  color: #fff
+}
+
+.txt span {
+  text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+.btnCerrar {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.modalTitle {
+  width: 100%;
+  text-align: center;
+  color: white;
+  position: absolute;
+  margin-top: -85px;
+  font-size: 20px;
+}
+
+.bgpopup {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.underVerifiedLogo {
+  color: white;
+  font-size: 10px;
+  width: 60px;
+  margin: auto;
+}
+
+.inputContainer {
+  text-align: left;
+  width: 350px;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.inputLabel {
+  color: white;
+  font-size: 13px;
+}
+
+.examinar {
+  text-align: right;
+  position: absolute;
+  right: 85px;
+  margin-top: 8px;
+}

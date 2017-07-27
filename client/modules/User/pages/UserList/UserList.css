@@ -1,0 +1,59 @@
+.main {
+  display: block;
+  background: #FAFAFA;
+  padding: 32px 0 120px 0;
+  width: 100%;
+  float: left;
+  min-height: 650px;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: #237aa7;
+}
+
+.items {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  font-size: 14px;
+}
+
+.imgContainer {
+  width: 140px;
+  height: 140px;
+  float: left;
+  background: #fff;
+  margin: 20px 20px 20px 0px;
+}
+
+.infoItem {
+  margin: 8px 0px;
+}
+
+.infoLabel {
+  /*width: 100%;*/
+  /*float: left;*/
+  font-family: 'Montserrat', sans-serif !important;
+  color: #f5a41f;
+  font-weight: bold;
+}
+
+.item {
+  width: 100%;
+  border-bottom: 2px solid #adadaf;
+  float: left;
+}
+
+.info {
+  margin: 25px;
+}
+
+.paginator {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 40px;
+}

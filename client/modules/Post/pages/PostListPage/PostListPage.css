@@ -1,0 +1,93 @@
+.divider {
+  border: 0;
+  height: 1px;
+  background: #ccc;
+  margin: 20px auto 0;
+}
+
+.posts-user-title {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 35px;
+  color: #454545;
+}
+
+.form {
+  display: block;
+  background: #FAFAFA;
+  padding: 32px 0 120px 0;
+}
+
+.form2 {
+  display: block;
+  background: #FAFAFA;
+  margin: 50px 0px 50px 0px;
+  padding: 32px 0 120px 0;
+}
+
+.form-content {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  font-size: 14px;
+}
+
+.inp50 {
+  width: 48%;
+  float: left;
+  margin-right: 4%;
+}
+
+.inp50nm {
+  width: 48%;
+  float: left;
+  margin-right: 0px;
+}
+
+.inp100 {
+  width: 100%;
+  float: left;
+}
+
+.inp100 label {
+}
+
+.inp100 label input {
+  float: left;
+  width: auto !important;
+  margin: 15px 0px 0px 0px;
+}
+
+.inp100 label span {
+  float: left;
+  font-style: italic;
+  padding: 16px 10px 0px 10px;
+  color: #949599;
+}
+
+.inp30 {
+  width: 33%;
+  float: left;
+  margin-right: 2%;
+}
+
+.inp30nm {
+  width: 30%;
+  float: left;
+}
+
+.labelFix {
+  width: 100%;
+  float: left;
+  font-family: 'Montserrat', sans-serif !important;
+  color: #f5a41f;
+  font-weight: bold;
+}
+
+.titular {
+  color: #2679ab;
+  font-family: 'Montserrat', sans-serif !important;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 700;
+}

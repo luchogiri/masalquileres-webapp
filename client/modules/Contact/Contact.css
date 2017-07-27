@@ -1,0 +1,113 @@
+.main-container {
+  max-width: 990px;
+  margin: 0 auto;
+  margin-top: 90px;
+}
+
+.left-container {
+  float: left;
+  width: 40%;
+  padding: 25px 10px;
+}
+
+.left-container-title {
+  font-size: 27px;
+  margin-bottom: 20px;
+  color: rgb(245, 164, 29);
+}
+
+.contact-info {
+  color: rgb(112, 112, 112);
+  font-size: 15px;
+  margin-left: 45px;
+}
+
+.contact-info-img-phone {
+  display: inline;
+  padding: 15px 12px;
+}
+
+.contact-info-img-email {
+  display: inline;
+  padding: 7px 10px;
+}
+
+.contact-info-text {
+  display: inline;
+  margin-left: 25px;
+  font-weight: bold;
+}
+
+.right-container {
+  float: right;
+  width: 60%;
+}
+
+.form-container {
+  padding: 50px 60px;
+  background: #FAFAFA;
+}
+
+.form-title {
+  font-size: 17px;
+  margin-bottom: 40px;
+  color: rgb(36, 122, 169);
+}
+
+.form-field-container {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  font-size: 15px;
+  margin-bottom: 10px;
+  color: rgb(245, 164, 29);
+}
+
+.form-field-input {
+  width: 100%;
+  font-family: 'Vollkorn', serif;
+  font-size: 16px;
+  line-height: normal;
+  padding: 5px 16px;
+  border: 0px;
+  outline: none;
+  color: rgb(165,165,165);
+}
+
+.form-field-text-area {
+  width: 100%;
+  font-family: 'Vollkorn', serif;
+  font-size: 16px;
+  line-height: normal;
+  padding: 16px 16px;
+  border: 0px;
+  outline: none;
+  color: rgb(165,165,165);
+}
+
+.post-submit-button-container {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.form-button {
+  color: #fff;
+  background-color: rgb(36, 122, 169);
+  border: 0px;
+  border-radius: 0px;
+  padding: 16px 90px;
+}
+
+@media (max-width: 700px) {
+  .right-container {
+    width: 100%
+  }
+
+  .left-container {
+    width: 100%;
+  }
+}

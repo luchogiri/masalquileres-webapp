@@ -1,0 +1,10 @@
+import <%= helpers.capitalize(name) %> from '../models/<%= name %>';
+import AbstractRepository from './abstract.repository';
+
+class <%= helpers.capitalize(name) %>Repository extends AbstractRepository {
+
+}
+
+const repository = new <%= helpers.capitalize(name) %>Repository(<%= helpers.capitalize(name) %>);
+
+export default repository;
